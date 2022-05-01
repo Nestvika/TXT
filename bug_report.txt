@@ -1,1 +1,5 @@
-
+  name of bug:"Pushbutton 'create new account' doesn't exist on the main page",
+  Step1:"Go to website.com to mail page",
+  Step2:"Find Pushbutton 'create new account'",
+  exp_result:"Button at the right corner of display",
+  fact_result:"there is no button on display"
