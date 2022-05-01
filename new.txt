@@ -1,0 +1,5 @@
+name: Viktoria
+age: 25
+pets: cat
+future salary: 1000
+
